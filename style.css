@@ -200,9 +200,9 @@
 {
         display: inline-block;
         padding: 10px 28px;
-        background: rgb(10, 95, 103);
+        background: rgb(126, 229, 236);
         margin-bottom: 50px;
-        margin-left: 70px;
+        margin-left: 100px;
         border-radius: 40px;
         font-size: 16px;
         color: #001b29;
@@ -212,6 +212,11 @@
         box-shadow: 0 0 5px #0ef,
         0 0 25px #0ef;
     
+}
+#btn:hover{
+    background: rgb(166, 238, 246);
+    color: #050b0e;
+    box-shadow: 0 0 20px rgb(6, 54, 58);
 }
 #skill{
     color: aliceblue;
